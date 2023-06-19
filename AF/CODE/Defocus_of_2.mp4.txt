@@ -1,6 +1,0 @@
-Time of defocus: 1.633333s, Frame of defocus: 49-th frame
-Time of defocus: 1.666667s, Frame of defocus: 50-th frame
-Time of defocus: 1.700000s, Frame of defocus: 51-th frame
-Time of defocus: 4.466667s, Frame of defocus: 134-th frame
-Time of defocus: 4.500000s, Frame of defocus: 135-th frame
-Time of defocus: 4.533333s, Frame of defocus: 136-th frame
